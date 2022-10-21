@@ -1,3 +1,3 @@
 # Solidity Smart Contract
 
- The fastest and most secure crypto exchange platform.
+ A collection of the smart contracts for unreleased dApps I've made, each with their own description, functionality, and truffle tests.
